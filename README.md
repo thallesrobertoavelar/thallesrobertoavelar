@@ -55,3 +55,16 @@
 </div>
 
 ###
+
+### 🎓 Formação e Treinamentos
+Atualmente, estou cursando **Gestão de TI** na **Estácio EAD Tecnológico**, com 6 meses completados e 12 meses restantes para a conclusão. Ao longo dos últimos 15 anos, participei de mais de **50 treinamentos** em diversas áreas, incluindo:
+
+- Infraestrutura de TI, virtualização e redes
+- Processos e ITSM
+- Práticas de DevOps em todo ciclo de desenvolvimento e deployment
+- Sistemas Windows e Linux
+- Arquitetura de sistemas: Domain drive design, event drive design, MVC
+- Containers e CI/CD com GitHub, GitLab, Docker e Kubernetes
+- Linguagens de Programação Python e JavaScript
+- Metodologias Ágeis (Scrum, Kanban,SOLID,DRY OO)
+- Segurança da Informação e conformidade com normas como ISO 27001
