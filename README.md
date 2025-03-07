@@ -56,6 +56,58 @@
 
 ###
 
+### 🛠️ Experiência Profissional
+
+- **Grupo MP | Incorporadora e Construtora · Tempo integral**  - *CLT Hibrido*  
+- **Analista de tecnologia da informação sênior:**
+- **Período:** 04/2024 - 03/2025  
+- Analisar e investigar ameaças **cibernéticas** usando Ferramentas de avaliação de risco de segurança cibernética, **Fornecer visibilidade sobre dependências de software e vulnerabilidades de infraestrutura**, identificação e correção de vulnerabilidades. 
+-  **construção de processos SOC**. **Administração de servidor Active Directory Azure**.
+- **Automação de tarefas Shell ScriptAdministração**, Administração de Firewall Sophos, Atuar como multiplicador do conhecimento de Segurança e Privacidade da Informação e fomentar o engajamento dos colaboradores e terceiros, através de elaboração de conteúdo de ações 
+-  **Atuar na manutenção da documentação do sistema de gestão da segurança e privacidade de informação da organização**.
+-  balanceadores de carga e segmentação no Sophos Firewall, processos internos, políticas, normas, procedimentos e indicadores. **Administação e Monitoramento de ferramentas SIEM Splunk, QRadar
+-  Gestão de Ferramentas de varredura de vulnerabilidades**, BeyondTrust, Nmap, OpenVAS, Suporte ao produto · **Sophos Firewall** · **Sophos Endpoint** · **Sophos Managed Threat Response** · **Sophos Cloud** · **Sophos Wireless** · **Sophos Server**, **Configuração de Monitoramento de Switchs**
+-  roteadores, **Implantação de soluções SD-WAN**; **Gerenciador de senhas Bitwarden baseado na nuvem, Realizar troubleshootings em problemas**
+-  **segmentação de rede via VLAN (Virtual LAN)** Instalação e configuração de novos equipamentos de rede (Switch, Firewall e Access Point); **Gerenciamento do Sophos Central**, **Documentar topologia quando necessário**; Executar configurações básicas de Backup/Monitoramento; Gerenciamento do Sophos Central unificado baseada na nuvem para todas as suas tecnologias Sophos Next-Gen: endpoint, servidor, firewall, ZTNA
+   
+**Câmara dos Vereadores de Itaboraí · Freelance**  
+**Cargo:** Analista de infraestrutura   
+**Período:** 01/2017 - /2025 (8 anos e 3 meses)  
+
+- **Administração de Redes:** Gestão completa de ambientes Windows e Linux, incluindo **Windows Server 2016** e **2019**, **Dell Optiplex**, e **VMware**.
+- **Active Directory e GPO:** Administração do Active Directory, gerenciamento de GPO, Print Server, DNS, Terminal Services e File Server.
+- **Administração TS-432PXU-RP Qnap - Server storage NAS** 
+- Sistemas de Monitoramento - Nagios Monitoring - The Dude - **Zabbix** - Boas práticas em Cibe segurança, Instalar e resolver problemas relacionados a Windows. Garantir clareza e assertividade nas informações passadas ao cliente, Retornar feedbacks referentes as solicitações cotidianas.
+- **Documentação Técnica:** Criação de manuais técnicos e operacionais, controle de ativos de TI, inventários, garantias e licenças.
+- **Suporte Técnico:** Fornecimento de suporte técnico Nível 1, gestão de chamados e criação de usuários com controle de acessos.
+- **Segurança da Informação:** Desenvolvimento e implementação de SGSI e Políticas de Segurança alinhadas à **ISO 27001**, além de boas práticas de gestão e governança (ITIL, ISO 20000).
+- **Ambiente Desktop e Linux:** Administração de desktops corporativos, automação de rotinas com **Puppet Bolt**, **Shell Scripts** e **PowerShell**.
+- **Laboratório de Testes:** Deploy de servidores virtuais em laboratório de testes utilizando **Hyper-V**, além de gestão e documentação de ativos.
+- **Suporte a ERP:** Monitoramento do ambiente ERP via **Zabbix**, incluindo suporte e administração do sistema.
+
+### 📚 Competências Técnicas
+
+#### 🖥️ Administração de Servidores
+- **Sistemas Operacionais:** Windows Server (incluindo AD, GPO, DNS, DHCP) e diversas distribuições Linux (Ubuntu, CentOS, Debian).
+- **Configuração e Otimização:** Habilidades em configurar e otimizar servidores para desempenho e segurança, além de gerenciar serviços essenciais.
+
+#### ☁️ Virtualização e Cloud Computing
+- **Tecnologias de Virtualização:** VMware, Hyper-V e KVM.
+- **Serviços em Nuvem:** Proficiente em plataformas de cloud como **AWS** (EC2), **Google Cloud Kubernetes**, **OVH**, **Digital Ocean Kubernetes Engine** com experiência em arquitetar soluções escaláveis.
+
+- #### 🔍 Monitoramento e Segurança
+- **Ferramentas de Monitoramento:** Zabbix, Grafana, Prometheus.
+- **Segurança da Informação:** Implementação de políticas de segurança, controle de acesso e proteção de dados.
+
+#### **Armazenamento e Virtualização**  
+![MinIO](https://img.shields.io/badge/MinIO-S3_Compatible-yellow)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-ML-Blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-7.0-blue)  
+![Nível](https://img.shields.io/badge/Nível-Avançado-brightgreen)  
+
+  
 ### 🎓 Formação e Treinamentos
 Atualmente sou formado em **analise e Desenvolvimento de Sistemas**, estou cursando **Gestão de TI** na **Estácio EAD Tecnológico**, com 6 meses completados e 12 meses restantes para a conclusão. Ao longo dos últimos 15 anos, participei de mais de **50 treinamentos** em diversas áreas, incluindo:
 
