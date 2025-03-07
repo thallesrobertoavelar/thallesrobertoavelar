@@ -57,7 +57,7 @@
 ###
 
 ### 🎓 Formação e Treinamentos
-Atualmente, estou cursando **Gestão de TI** na **Estácio EAD Tecnológico**, com 6 meses completados e 12 meses restantes para a conclusão. Ao longo dos últimos 15 anos, participei de mais de **50 treinamentos** em diversas áreas, incluindo:
+Atualmente sou formado em **analise e Desenvolvimento de Sistemas**, estou cursando **Gestão de TI** na **Estácio EAD Tecnológico**, com 6 meses completados e 12 meses restantes para a conclusão. Ao longo dos últimos 15 anos, participei de mais de **50 treinamentos** em diversas áreas, incluindo:
 
 - Infraestrutura de TI, virtualização e redes
 - Processos e ITSM
