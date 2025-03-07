@@ -56,6 +56,26 @@
 
 ###
 
+### 🧑‍💻 Resumo Profissional
+**Thalles Roberto Avelar**  
+*Administrador de Redes e Infraestrutura  |**📍 Remoto*
+
+Com mais de **15 anos** de experiência contínua na área de infraestrutura de TI, minha expertise abrange **administração de redes**, **sistemas Linux** e **práticas DevOps**. Desde 2023, intensifiquei meu foco em **DevOps**, **GitOps**, **Application Delivery**, **Docker Orchestration** e **Kubernetes**.
+
+💻 **Competências em Redes**
+- Cisco Catalyst Center; ISE (Identity Services Engine); Aruba Clearpass
+- **SDWAN Fortinet** Routing (BGP,OSPF,eBGP/iBGP)  
+- firewall (Fortigate), Proxy, balanceador de aplicações (F5); Switching
+- Projetos de Rede Wireless, LAN, WAN e SDWAN Manter e gerir a infraestrutura de rede;
+
+🚀 **Competências em Infraestrutura:**
+- Orquestração e provisionamento de ambientes on-premise e em nuvem, utilizando soluções como **Google Cloud VPC**, **GKE**, **AWS EC2**, **EKS** e **Digital Ocean**.
+- Ferramentas de automação e integração contínua como **Terraform**, **Ansible**, **Docker**, **Kubernetes**, **GitHub Actions** e **Jenkins**.
+
+🔒 **Segurança e Melhores Práticas:**
+Meu trabalho é fundamentado nas metodologias **DevOps**, **AIOps**, **GitOps** e **DevSecOps**, garantindo processos contínuos de integração, entrega e segurança. Antes de migrar completamente para a área de DevOps, atuei em ambientes variados, desde pequenas empresas até grandes corporações, adquirindo um conhecimento diversificado e uma abordagem versátil para resolver desafios complexos de TI.
+
+
 ### 🛠️ Experiência Profissional
 
 - **Grupo MP | Incorporadora e Construtora · Tempo integral**  - *CLT Hibrido*  
