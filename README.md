@@ -56,6 +56,73 @@
 
 ###
 
+### 🔧 **Principais Tecnologias e Habilidades:**
+
+#### **Distribuições Linux:**
+- **Ubuntu:** 
+  ![Ubuntu 10](https://img.shields.io/badge/Ubuntu-10-blue)
+  ![Ubuntu 14](https://img.shields.io/badge/Ubuntu-14-blue)
+  ![Ubuntu 16](https://img.shields.io/badge/Ubuntu-16-blue)
+  ![Ubuntu 18](https://img.shields.io/badge/Ubuntu-18-blue)
+  ![Ubuntu 20](https://img.shields.io/badge/Ubuntu-20-blue)
+  ![Ubuntu 22](https://img.shields.io/badge/Ubuntu-22-blue)
+- **Debian:** 
+  ![Debian 7](https://img.shields.io/badge/Debian-7-blue)
+  ![Debian 8](https://img.shields.io/badge/Debian-8-blue)
+  ![Debian 9](https://img.shields.io/badge/Debian-9-blue)
+  ![Debian 10](https://img.shields.io/badge/Debian-10-blue)
+  ![Debian 11](https://img.shields.io/badge/Debian-11-blue)
+- **CentOS:** 
+  ![CentOS 7](https://img.shields.io/badge/CentOS-7-blue)
+  ![CentOS 8](https://img.shields.io/badge/CentOS-8-blue)
+
+#### **Gerenciamento e Configuração:**
+- **Acesso Remoto:** 
+  ![SSH](https://img.shields.io/badge/SSH-Enabled-brightgreen)
+  ![VNC](https://img.shields.io/badge/VNC-Enabled-brightgreen)
+- **Orquestração de Configuração:** 
+  ![Ansible](https://img.shields.io/badge/Ansible-Experienced-orange)
+  ![Puppet](https://img.shields.io/badge/Puppet-Experienced-orange)
+- **Gerenciamento de Firewall:** 
+  ![UFW](https://img.shields.io/badge/UFW-Experienced-orange)
+
+#### **Serviços e Funções em Windows Server:**
+- **Active Directory:** 
+  ![Active Directory](https://img.shields.io/badge/Active_Directory-Configured_and_Managed-yellow)
+- **DNS:** 
+  ![DNS](https://img.shields.io/badge/DNS-Zones_and_Name_Resolution-green)
+- **DHCP:** 
+  ![DHCP](https://img.shields.io/badge/DHCP-Configured_and_Managed-green)
+- **File Server:** 
+  ![File Server](https://img.shields.io/badge/File_Server-Configured_and_Managed-green)
+- **Terminal Services:** 
+  ![Terminal Services](https://img.shields.io/badge/Terminal_Services-Implemented_and_Managed-blue)
+- **PowerShell:** 
+  ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting_and_Automation-blue)
+
+
+## 🎯 Objetivo Profissional
+Encontrar uma empresa com espírito de melhoria e boas práticas, onde eu possa oferecer soluções práticas e inovadoras para problemas do dia a dia, tanto os resolvendo, como impedindo que problemas mais críticos aconteçam através de ações pró ativas.
+
+Sou um **profissional de TI** com mais de **14 anos** de experiência diversificada em **administração de redes** 🖥️, **infraestrutura** 🏗️ e **desenvolvimento de software** 💻. Ao longo da minha trajetória, tive a oportunidade de atuar em ambientes **virtualizados** ☁️, **nuvem** 🌩️, **on-premise** 🏢 e **híbridos**, adquirindo um conjunto de habilidades robustas e abrangentes.
+
+Atualmente, estou em busca de **oportunidades remotas** para parcerias em projetos fixos ou temporários. Estou aberto a negociações de remuneração, tanto para **CLT** quanto **PJ**, sempre priorizando o trabalho **home office**. Se você está procurando um profissional comprometido e com vasta experiência para agregar valor ao seu time, vamos conversar! 💬
+
+### 🔄 Em Busca de Novos Desafios
+
+Estou animado para enfrentar novos desafios e contribuir com a minha experiência e paixão por tecnologia em uma nova organização. Estou à disposição para discutir oportunidades que possam se alinhar com meus objetivos e a visão da empresa.
+
+![Desafios](https://img.shields.io/badge/Desafios-Em%20Busca-yellow)
+
+---
+
+### 🌍 O que Busco Hoje
+
+Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutura, DevOps e projetos de inovação. Meu objetivo é aplicar toda a experiência adquirida e as habilidades desenvolvidas para impactar positivamente os resultados das empresas e contribuir para o avanço tecnológico. Estou pronto para enfrentar novos desafios e ajudar a impulsionar a transformação digital nas organizações.
+
+![Oportunidades](https://img.shields.io/badge/Oportunidades-Em%20Busca-orange)
+
+
 ### 🧑‍💻 Resumo Profissional
 **Thalles Roberto Avelar**  
 *Administrador de Redes e Infraestrutura  |**📍 Remoto*
