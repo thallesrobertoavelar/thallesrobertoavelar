@@ -58,12 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thallesrobertoavelar/thallesrobertoavelar/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRjazE5ZG1paTg2ZzN1N2dvc3J2YWVlenB5bGY0a241NnN0MGpoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
