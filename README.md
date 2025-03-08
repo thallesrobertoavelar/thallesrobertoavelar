@@ -75,9 +75,9 @@ Explore meu repositório pessoal e descubra meus hobbies 💖
 
 ## Informações de Contato 📞 📧 🏠
 
-- 🏠 **Localização:** Maringá, Paraná, Brasil
-- 📞 **Telefone:** +55 (11) 9-1135-3137
-- 📧 **E-mail:** oeliasandrade@gmail.com
+- 🏠 **Localização:** São Gonçalo - Rio de Janeiro - Brasil
+- 📞 **Telefone:** +55 (21) 975757369
+- 📧 **E-mail:** thallesrobertoavelar@gmail.com
 - 🌐 **LinkedIn:** [linkedin](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
 
 # Tabela de Preços e Salários 💼💰
