@@ -63,7 +63,7 @@ Explore meu repositório pessoal e descubra meus hobbies [Personal Hobbyes](http
 
 ## Informações de Contato 📞 📧 🏠
 
-- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 🏠 **Localização:** São Gonçalo, Rio de Janeiro, Brasil
 - 📞 **Telefone:** +55 (21) 975757369
 - 📧 **E-mail:** thallesrobertoavelar@gmail.com
 - 🌐 **LinkedIn:** [linkedin.com/in/itilmgf](### 🌟 Conheça mais sobre mim!  
