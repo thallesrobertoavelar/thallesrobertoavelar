@@ -66,8 +66,10 @@ Explore meu repositório pessoal e descubra meus hobbies 💖
 - 🏠 **Localização:** São Gonçalo, Rio de Janeiro, Brasil
 - 📞 **Telefone:** +55 (21) 975757369
 - 📧 **E-mail:** thallesrobertoavelar@gmail.com
-- 🌐 **LinkedIn:** [linkedin.com/in/itilmgf](### 🌟 Conheça mais sobre mim!  
-Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
+- 🌐 **LinkedIn:**[linkedin](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
+  
+-    🌟 Conheça mais sobre mim!
+-  Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: 💖
 
 ## 💰 Pretensão Salarial faixa à negociar 
 
