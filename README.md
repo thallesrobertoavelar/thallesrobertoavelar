@@ -56,6 +56,40 @@
 
 ###
 
+### 🌟 Conheça mais sobre mim!  
+Explore meu repositório pessoal e descubra meus hobbies [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
+
+## 💰 Pretensão Salarial faixa à negociar 
+
+## Informações de Contato 📞 📧 🏠
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (21) 975757369
+- 📧 **E-mail:** thallesrobertoavelar@gmail.com
+- 🌐 **LinkedIn:** [linkedin.com/in/itilmgf](### 🌟 Conheça mais sobre mim!  
+Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
+
+## 💰 Pretensão Salarial faixa à negociar 
+
+## Informações de Contato 📞 📧 🏠
+
+- 🏠 **Localização:** Maringá, Paraná, Brasil
+- 📞 **Telefone:** +55 (11) 9-1135-3137
+- 📧 **E-mail:** oeliasandrade@gmail.com
+- 🌐 **LinkedIn:** [linkedin](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
+
+# Tabela de Preços e Salários 💼💰
+
+| Tipo de Contratação      | Salário Fixo Mensal (R$) | Observações                           |
+|--------------------------|--------------------------|--------------------------------------|
+| **CLT Remoto**           | ![💵 5.500](https://img.shields.io/badge/R$-5.500-brightgreen)  | Salário fixo mensal                  |
+|                          | ![💵 6.500](https://img.shields.io/badge/R$-6.500-brightgreen)  |                                      |
+|                          | ![💵 7.500](https://img.shields.io/badge/R$-7.500-brightgreen)  |                |
+| **PJ**                   | ![💵 8.500](https://img.shields.io/badge/R$-8.500-brightgreen)  | Salário fixo mensal                  |
+
+---
+
+
 # Thalles Roberto Avelar 🚀
 ### Analista de Infraestrutura, (Docker/Kubernetes) 🐳 | Infra e Redes
 
