@@ -56,6 +56,13 @@
 
 ###
 
+# Thalles Roberto Avelar 🚀
+### Analista de Infraestrutura, (Docker/Kubernetes) 🐳 | Infra e Redes
+
+📍 **Localização**: São Gonçalo - Rio de Janeiro  🌐 **GitHub**: [ThallesRobertoAvelar](https://github.com/thallesrobertoavelar)  💼 **LinkedIn**: [ThallesRobertoAvelar](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
+
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/7fa20ad0-444b-419c-93df-576e0356623a" />
+
 ### 🔧 **Principais Tecnologias e Habilidades:**
 
 #### **Distribuições Linux:**
