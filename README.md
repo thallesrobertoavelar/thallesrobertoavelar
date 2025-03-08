@@ -57,7 +57,7 @@
 ###
 
 ### 🌟 Conheça mais sobre mim!  
-Explore meu repositório pessoal e descubra meus hobbies [Personal Hobbyes](https://github.com/evolucaoit/Personal_Hobbyes) 💖
+Explore meu repositório pessoal e descubra meus hobbies 💖
 
 ## 💰 Pretensão Salarial faixa à negociar 
 
