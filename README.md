@@ -168,7 +168,7 @@ Atualmente, estou em busca de novas **oportunidades** nas áreas de infraestrutu
 
 ### 🧑‍💻 Resumo Profissional
 **Thalles Roberto Avelar**  
-*Administrador de Redes e Infraestrutura  |**📍 Remoto*
+**Administrador de Redes e Infraestrutura**  |**📍 Remoto***
 
 Com mais de **15 anos** de experiência contínua na área de infraestrutura de TI, minha expertise abrange **administração de redes**, **sistemas Linux** e **práticas DevOps**. Desde 2023, intensifiquei meu foco em **DevOps**, **GitOps**, **Application Delivery**, **Docker Orchestration** e **Kubernetes**.
 
