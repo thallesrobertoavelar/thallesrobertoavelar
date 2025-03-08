@@ -68,9 +68,6 @@ Explore meu repositório pessoal e descubra meus hobbies 💖
 - 📧 **E-mail:** thallesrobertoavelar@gmail.com
 - 🌐 **LinkedIn:**[linkedin](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
   
--    🌟 Conheça mais sobre mim!
--  Explore meu repositório pessoal e descubra meus hobbies, interesses pessoais e momentos em família: 💖
-
 ## 💰 Pretensão Salarial faixa à negociar 
 
 ## Informações de Contato 📞 📧 🏠
