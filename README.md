@@ -59,23 +59,15 @@
 ### 🌟 Conheça mais sobre mim!  
 Explore meu repositório pessoal e descubra meus hobbies 💖
 
-## 💰 Pretensão Salarial faixa à negociar 
-
-## Informações de Contato 📞 📧 🏠
-
-- 🏠 **Localização:** São Gonçalo, Rio de Janeiro, Brasil
-- 📞 **Telefone:** +55 (21) 975757369
-- 📧 **E-mail:** thallesrobertoavelar@gmail.com
-- 🌐 **LinkedIn:**[linkedin](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
   
-## 💰 Pretensão Salarial faixa à negociar 
-
 ## Informações de Contato 📞 📧 🏠
 
 - 🏠 **Localização:** São Gonçalo - Rio de Janeiro - Brasil
 - 📞 **Telefone:** +55 (21) 975757369
 - 📧 **E-mail:** thallesrobertoavelar@gmail.com
 - 🌐 **LinkedIn:** [linkedin](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
+
+## 💰 Pretensão Salarial faixa à negociar 
 
 # Tabela de Preços e Salários 💼💰
 
