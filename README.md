@@ -27,11 +27,12 @@
 <!-- Badge Laranja Grande Linkando para o Repositório -->
 [![Acessar Repositório de Currículos](https://img.shields.io/badge/Acessar%20Repositório%20de%20Currículos-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorange&logoWidth=20)](https://github.com/thallesrobertoavelar/CV/blob/main/Thalles%20Roberto%20Avelar.pdf)
 
+<!-- Badges Verdes de Status e Data -->
+![Status](https://img.shields.io/badge/%E2%9C%85%20Status-Currículos%20Atualizados-green?style=flat-square) ![Atualizado em](https://img.shields.io/badge/%F0%9F%93%85%20Atualizado%20em-09/04/2025-green?style=flat-square)
 
 <h2 align="center">Hard skills</h2>
 
-<!-- Badges Verdes de Status e Data -->
-![Status](https://img.shields.io/badge/%E2%9C%85%20Status-Currículos%20Atualizados-green?style=flat-square) ![Atualizado em](https://img.shields.io/badge/%F0%9F%93%85%20Atualizado%20em-09/04/2025-green?style=flat-square)
+
 
 ###
 
