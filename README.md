@@ -25,7 +25,7 @@
 ✨ **Acesse meus Currículos e Portfólios Atualizados:** 📂
 
 <!-- Badge Laranja Grande Linkando para o Repositório -->
-[![Acessar Repositório de Currículos](https://img.shields.io/badge/Acessar%20Repositório%20de%20Currículos-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorange&logoWidth=20)]([https://github.com/thallesrobertoavelar/CV/blob/main/Thalles%20Roberto%20Avelar.pdf](https://github.com/thallesrobertoavelar/CV/blob/main/Thalles%20Roberto%20Avelar.pdf))
+[![Acessar Repositório de Currículos](https://img.shields.io/badge/Acessar%20Repositório%20de%20Currículos-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorange&logoWidth=20)](https://github.com/thallesrobertoavelar/CV/blob/main/Thalles%20Roberto%20Avelar.pdf)
 
 
 <h2 align="center">Hard skills</h2>
