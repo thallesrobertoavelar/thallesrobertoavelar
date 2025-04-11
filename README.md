@@ -30,6 +30,9 @@
 
 <h2 align="center">Hard skills</h2>
 
+<!-- Badges Verdes de Status e Data -->
+![Status](https://img.shields.io/badge/%E2%9C%85%20Status-Currículos%20Atualizados-green?style=flat-square) ![Atualizado em](https://img.shields.io/badge/%F0%9F%93%85%20Atualizado%20em-09/04/2025-green?style=flat-square)
+
 ###
 
 <div align="center">
