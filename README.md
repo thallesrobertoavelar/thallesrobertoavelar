@@ -22,6 +22,12 @@
 
 ###
 
+✨ **Acesse meus Currículos e Portfólios Atualizados:** 📂
+
+<!-- Badge Laranja Grande Linkando para o Repositório -->
+[![Acessar Repositório de Currículos](https://img.shields.io/badge/Acessar%20Repositório%20de%20Currículos-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorange&logoWidth=20)]([https://github.com/thallesrobertoavelar/CV/blob/main/Thalles%20Roberto%20Avelar.pdf](https://github.com/thallesrobertoavelar/CV/blob/main/Thalles%20Roberto%20Avelar.pdf))
+
+
 <h2 align="center">Hard skills</h2>
 
 ###
@@ -58,6 +64,22 @@
 
 ### 🌟 Conheça mais sobre mim!  
 Explore meu repositório pessoal e descubra meus hobbies 💖
+
+
+### Meu Portfolio 💼
+
+[![Status](https://img.shields.io/badge/Status-Atualizado-green)](https://img.shields.io/badge/Status-Atualizado-green)
+
+Explore meus projetos no GitHub e Spaces do Hugging Face! 
+
+🔧 **Especialista atuando na área de T.I desde 2007**:
+
+- **Tecnólogo em gestão de T.I - Estácio 2023 - Ensino Superior Completo** 💻
+
+- **Projetos, implementação e gestão de servidores** 💻
+- **Infraestrutura, virtualização e Automação** 🏗️
+- **Gestão de projetos, melhoria de Processos e ITSM** 📈
+
 
   
 ## Informações de Contato 📞 📧 🏠
